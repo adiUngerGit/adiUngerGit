@@ -1,5 +1,5 @@
 ### Hi there 👋
-### You've got my gate! how fun!
+### You've got my Git! how fun!
 #
 Here you can see some nice projects I have done in a variety of languages and techniques.
 
